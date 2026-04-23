@@ -110,3 +110,16 @@ section {
   cursor: pointer;
   display: none;
 }
+
+/* Media Query Section Design */
+
+@media only screen and (max-width: 700px){
+  .logo-name {
+    font-size: 15px;
+  }
+  .nav-list {
+    display: none;
+  }
+  
+
+}
